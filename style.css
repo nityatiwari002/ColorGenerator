@@ -1,0 +1,42 @@
+*{
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home{
+    padding-top: 17%;
+    box-sizing: border-box;
+    background-color: pink;
+    height: 100vh;
+    width: 100vw;
+}
+
+.tile{
+    text-align: center;
+    margin:auto;
+    width: 30vw;
+    height: 30vh;
+    padding: 3% 5%;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+.head{
+    font-size: 2rem;
+}
+.sub-head{
+    margin-top: 2%;
+}
+
+.click-me{
+    color: white;
+    padding: 3% 2%;
+    margin-top: 10%;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #deb887;
+    border: none;
+}
